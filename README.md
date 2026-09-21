@@ -4,9 +4,9 @@ Student and developer interested in software, IoT, and embedded systems.
 
 ## CURRENTLY WORKING ON
 
-**CircuitForge**  
+**[CircuitForge](https://github.com/dharshbdp/CircuitForge-IDE)**  
 A visual IoT development environment that connects visual programming with real hardware.
 
-## TECHNOLOGIES
+## TECH
 
 C • C++ • TypeScript • React • Electron • Arduino • ESP32 • Raspberry Pi
